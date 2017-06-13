@@ -1,6 +1,6 @@
 {
   "name": "shrink-number-sequences",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts number array to string with shrinking number sequences n+1",
   "main": "index.js",
   "scripts": {
